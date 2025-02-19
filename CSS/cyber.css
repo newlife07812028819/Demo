@@ -7,7 +7,7 @@
 
 .frst{
 height: fit-content;
-background-image: url(/pics/colors.jpg);
+background-image: url(../pics/colors.jpg);
 background-size: cover;
 margin-bottom: 80px ;
 }
@@ -336,7 +336,7 @@ footer{
     position: relative;
     height: 200px;
     width: 100%;
-    background-image: url(/pics/colors.jpg) ;
+    background-image: url(../pics/colors.jpg) ;
     display: flex;
     align-items: center;
     justify-content: center;
